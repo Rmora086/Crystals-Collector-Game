@@ -1,0 +1,112 @@
+/*Creating my own CSS Style for the game*/
+
+/*Styles that apply to the entire page*/
+body {
+    color: #ffffff;
+    background-color: #323232;
+    font-family: 'Raleway', sans-serif;
+	font-weight: 500;
+}
+
+/*JUMBOTRON*/
+.jumbotron {
+    background-image: url("../images/background.jpg");
+    margin-bottom: 60px;
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron h1 {
+	font-family: 'Elsie Swash Caps', cursive;
+	color: #FFFCA1;
+}
+
+.jumbotron p {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+}
+
+/* Styles for main 3 columns of the game*/
+#rndmNumbCol, #scoreCol, #buttnsCol {
+	height: 150px;
+	margin:auto;
+	text-align: center;
+	line-height: 150px;
+	border-radius: 5px;
+}
+
+.col-md-3 h2 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+}
+
+.col-md-3 p {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+	font-size: 50px;
+	letter-spacing: 3px;
+	line-height: 140%;
+	color: #F76666;
+}
+
+#rndmNumbCol, #scoreCol {
+	background-color: #282828;
+}
+
+#buttnsCol {
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+/* Styles for the "YOU WIN / YOU LOSE" message*/
+#message {
+	font-family: 'Elsie Swash Caps', cursive;
+	font-weight: 900;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 40px;
+	color: #6EEAE6;
+}
+
+/* Styles for Game Statistics*/
+#gameStats {
+	background-color: #E6E6E6;
+	color: #323232;
+	height: 75px;
+	margin-top: 30px;
+	border-radius: 5px;
+}
+
+#resetCol {
+	text-align: center;
+	margin-top: 60px;
+}
+
+/* Reset Button Styles*/
+#reset {
+	background-color: #935FA0;
+	border-color: #D399DD;
+	color: #ffffff;
+	padding-right: 40px;
+	padding-left: 40px;
+	letter-spacing: 1px;
+}
+
+#reset:hover {
+	background-color: #D399DD;
+	border-color: #935FA0;
+}
+
+
+
+
+
+
+
+
+
