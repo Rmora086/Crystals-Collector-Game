@@ -16,7 +16,7 @@ In this assignment, you'll create another fun and interactive game for web brows
 
 The player will have to guess the answer. The player will guess with numbers instead of letters. 
 
-1. Here's how the app works:
+1. Here's how the app works: 
 
    * There will be four crystals displayed as buttons on the page.
 
