@@ -1,4 +1,4 @@
-# Crystals-Collector-Game
+# Crystals-Collector-Game 
 
 Trilogy Education Services Full-Stack Web Developer Program
 
