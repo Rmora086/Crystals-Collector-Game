@@ -4,7 +4,7 @@ Trilogy Education Services Full-Stack Web Developer Program
 
 University of Miami Cohort - 201710FSF3
 
-Week 03 Homework Assignment:
+Week 04 Homework Assignment:
 
 Create a fun and interactive game using jQuery.
 
